@@ -26,3 +26,5 @@ bot.send_message(message.chat.id, answer)
 
 bot.polling()# -
 Creative-bot 
+pyTelegramBotAPI
+requests
